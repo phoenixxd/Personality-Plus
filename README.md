@@ -6,7 +6,7 @@ Let me know if you find any bugs :)
 
 # Screen Shots
 <p>
-<img src="screenshots/1.png" height="550px" />
-<img src="screenshots/2.png" height="550px" />
-<img src="screenshots/3.png" height="550px" />
+<img src="screenshots/1.png" height="450px" />
+<img src="screenshots/2.png" height="450px" />
+<img src="screenshots/3.png" height="450px" />
 </p>
